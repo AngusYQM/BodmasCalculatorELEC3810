@@ -1,0 +1,9 @@
+.\objects\main.o: main.c
+.\objects\main.o: PLL.h
+.\objects\main.o: LCD.h
+.\objects\main.o: keypad.h
+.\objects\main.o: cal.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\main.o: Calculation.h
+.\objects\main.o: UART.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
